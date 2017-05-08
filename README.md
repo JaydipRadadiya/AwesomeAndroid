@@ -8,7 +8,7 @@ A complete set of awesome stuff to use with Android
 * Android hive: http://www.androidhive.info/
 * Saúl Molinero: http://saulmm.github.io/
 * Dan Lew: http://blog.danlew.net/
-* Grafix Artist: http://blog.grafixartist.com/category/android/
+* Grafix Artist: http://blog.iamsuleiman.com/category/android/
 * Future Studio: https://futurestud.io/blog/tag/android/
 * Android Developers Blog: http://android-developers.blogspot.pt/
 * Android Developers Backstage Blog: http://androidbackstage.blogspot.pt/
